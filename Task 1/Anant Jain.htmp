@@ -1,0 +1,74 @@
+<html>
+<head>
+    <title>Anant</title>
+</head>
+<body bgcolor='black'>
+    <br>
+    <h1 style="font-size: 40px;font-family:cursive;"><font color='whitesmoke'><center><b>I'm Anant Jain,</b></center></h1>
+    <h3 style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><i><center>a Curious, Passionate and Deep Learner.</center></i></h3>
+    <br>
+    <div style="text-align: center;">
+        <img width="200" src="garbanightpic3.jpg" alt="_">
+    </div>
+    <center> <h3 style="font-family: cursive;">HELLO THERE!</h3>
+
+    <p style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+        I am currently in my first year of graduation, pursuing BTech. in <i>Artificial Intelligence and Data Science (Specialisation: Transportation and Logistics)</i> from <b>Gati Shakti Vishwavidyalaya 
+    <br>(A Central University Under Ministry Of Railways, The Government of India)🎓.</b>
+    <br>
+        You can mainly find me doing programming👨‍💻, editing🎞 or just being a lazy perfectionist✌.<br>
+    </center> </p>
+    <center> <p style="color: navajowhite;font-family:cursive;">My other hobbies involve Drawing🎨, playing Football⚽ and Table Tennis🏓, reading Manga🔖, watching Anime🎭 as well as listening to Rap/Rock Music🎶. 
+    <br>
+        Currently in the phase to improve myself both physically and mentally.</p></center>
+    <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><center><b>...</b></center></p>
+    <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><b><center>Skills (currently learning📈):</b>  </center> </h3>
+    <center> <button style="font-size: medium;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><i>HTML</i></button> <button style="font-size: medium;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><i>C</i></button> <button style="font-size: medium;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><i>Python</i></button> <button style="font-size: medium;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><i>MySQL</i></button> </center>
+    <table border="5", style="margin-left:auto;margin-right:auto;font-family:cursive;">
+        <br>
+        <br>
+        <caption> <font color="white"><button style="font-size: large;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"><b>Educational Background</b></button></caption>
+        <font color="white">
+        <tr>
+            <th><font color="navajowhite"><b>Qualification</b></th>
+            <th><font color="navajowhite"><b>Name Of The Institution</b></th>
+            <th><font color="navajowhite"><b>Grade </b></th>
+            <th><font color="navajowhite"><b>Board</b></th>
+            <th><font color="navajowhite"><b>Year Passed</b>
+        </tr>
+        <tr>
+            <td><font color="navajowhite">10th</td>
+            <td><font color="white">D.A.V. Public School, Ghaziabad</td>
+            <td><font color="white">93.5%</td>
+            <td><font color="white">C.B.S.E</td>
+            <td><font color="white">2021</td>
+        </tr>
+        <tr>
+            <td><font color="navajowhite">12th</td>
+            <td><font color="white">D.A.V. Public School, Ghaziabad</td>
+            <td><font color="white">86%</td>
+            <td><font color="white">C.B.S.E</td>
+            <td><font color="white">2023</td>
+        </tr>
+        <tr>
+            <td><font color="navajowhite">JEE Mains</td>
+            <td><font color="white">PhysicsWallah(Online) + Self Study</td>
+            <td><font color="white">94.89%ile</td>
+            <td><font color="white">N.T.A</td>
+            <td><font color="white">2023</td>
+        </tr>
+    </table>
+    <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: xx-large;"><center><b>...</b></center></p>
+    <p> <center>
+        <h3 style="font-size: x-large;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"> <b>Future Objectives: </b> </h3>
+        <p style="font-family: cursive;"> 
+            1) To learn more about other programming languages, JAVA or C++ with DSA. <br>
+            2) This is just the beginning of my Web Development Journey, I will make this portfolio website better and better by learning CSS and JS. <br>
+            3) Being more disciplined, just like <b>David Goggins</b> said, "<i>I Don't Stop When I Am Tired, I Stop When I Am Done.</i>"
+        </p>
+        <br>
+    </center> </p>
+
+</body>
+
+</html>
